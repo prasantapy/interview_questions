@@ -1,0 +1,44 @@
+ what is the diffrent bw Html elements and tag's
+-------------------------------------------------------
+ Tags : The html tag is individual block , start and end componet 
+ Elements : The Html elements is contact of full code ( start tag + context + end tag)
+
+
+ what is Purpose of the <!DOCTYPE html> declaration? 
+ ----------------------------------------------------------
+ It is not a tags 
+ Declaring <!Doctype html> give hint to the broswer useing html 5 version 
+
+ What is Semantic Html and why it's importance ?
+ -------------------------------------------------
+ Semantic are html tag's .
+ it's describe meaning  of content.
+
+ Why it's importace ?
+ --------------------
+ SEO (search engine optimization ) : easliy understand core content of a webpage 
+
+What diffrent bw block - level elements and inline elements ?
+---------------------------------------------------------------------
+Block level element's :- Block elemements start with a new line block 
+		 it's contect full length of code 
+		 we can perform style width and height 
+		 ( <div> ,<p>, <h1> - <h6>, <ol>, <dl> )
+Inline level elements :-  Inline -level elements's are perform inside an element's 
+	              it can't start with a new line
+		      it's don't support style width and height 
+
+
+                     ( <em> , <span>, <a> )
+
+
+What difrent bw Get and Post method's in the html form ?
+-----------------------------------------------------------
+
+Get : Retrive the data from the server 
+      Data added in url as a query parameter 
+
+
+Post : send the data on server 
+       send the data body request 
+      
