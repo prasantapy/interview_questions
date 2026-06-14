@@ -1,0 +1,31 @@
+what is djago 
+--------------------[A[D[D[D[D[D[D[D , why we learn it[B[B
+Django is a python based framework . rapiddly develoment web applications
+Dj following MVT architecture 
+DJ is mainly useing for full stack python ( Backend ,UI ,Database)
+
+what is Middleware 
+-------------------------------
+Django middleware is framework hook .
+It's sit bw user request & User responces 
+it process procted our applications
+
+
+What is JWT 
+-------------------
+JWT : Json Web Token ) it is digtal web token for authzations process .
+it descibe in to 3 parts ( Header , Payload ,Signture )
+
+    When you a user log once provided creadial ( Username + Password) 
+
+it save userdata , and skip veryfiy again
+	
+
+what Sessions and JWT 
+-----------------------[A[A[D[B[D[D[D[D[D[DVS[B[B[B[B[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[Seesions : User need to provide the data again and agian 
+	    server takes user data 
+
+JWT Token : JWt ( token help to store the data a spify time) 
+	: token takes the data at the server 
+
+
