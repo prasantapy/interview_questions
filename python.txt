@@ -1,0 +1,53 @@
+1 ) How does python manage memory
+
+ python automatic manage memory with help of referance count & garbag collections .
+
+	1) referance count : python auto matic counted every object how many time's refer
+	2) Garbag collection: Where 
+
+2) In python which Datatype is faster 
+
+Generally ( all Data type are based on  operations and performace will fast ).compare of all oprations 
+tuple() has fasterf among all.
+
+
+3) What is xrange & range  : 
+----------------------------------
+In python current version we are useing range() datatype .
+range generate val based on provide condtion 
+In range Must be pass a val, range generally follow ( start,stop,step)
+
+Xrange 
+---------------
+python old verstions was useing Xrange.
+
+4) What is Pep8 ,Why py following Pep ?
+-------------------------------------------------- 
+pep stands for Python Enhancement Proposal .
+it's the offical site for python 
+provide grideline's for developer write code in clearn way
+
+5) What is Loop, Why use it ?
+----------------------------------------------- 
+Loop is a repeat block of code 
+Python has 2 types of loop (for loop,while loop)
+Generally loop's perform with range & sequance 
+
+6) What use of return keyword 
+-----------------------------------------
+Return is kw in python 
+it perform with function 
+return kw use for return  val from fucntion space main space 
+After use of return kw we can't perform any task .
+
+7) What Function argument and Function parameter ? 
+------------------------------------------------------------------------
+Function arg : We pass the val in function  called .
+Function Parameter :   It's attached with Function name and pass the varaible.
+
+8) What *args & **kwargs argument
+-----------------------------------------------
+*args function based argument we can pass any numbr of Postiational argument. 
+**kwargs function based arg we can pass any number of keyword argument .
+
+

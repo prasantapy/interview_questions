@@ -42,3 +42,122 @@ Get : Retrive the data from the server
 Post : send the data on server 
        send the data body request 
       
+What Is Css Selector  :
+-----------------------------
+It selected the html elements & add style and particuler element
+	p{color : "red"}
+p : Selector   ||  Color : property   || red : Values 
+
+
+What is Inline Css  :
+------------------------
+A Process of style single html element
+
+Internal Css :
+----------------------
+The  process of single file write html and css code 
+
+Extranal Css :
+---------------------
+Out side of html file ,needs to create a css (extersion file ) 
+and link with html file in head sections 
+
+What diffrent Bw Margin and Padding 
+----------------------------------------------------
+Margin  : Space border outside elements 
+Padding : Space border inside elements 
+
+
+What is CSS Pseudo-classes
+---------------------------------------
+Preudo classes are keyword added to selecter to define a spical state of html elements 
+
+Structural Pseudo-classes
+Structural pseudo-classes select elements based on their position in the document tree.
+
+
+
+What Use of Js
+---------------------
+JavaScripts is a programming lang
+it make html pages interntaive and dynamic
+ 
+foreach()
+--------------
+Foreach() method calls a fucntion once for each array elements .
+
+Map() Method 
+------------------
+=> Map() Method use for creates a new array ,each elements call's once 
+
+Flatmap() Method 
+------------------------
++ First map all elements after it create a new array 
+
+Filter()method
+--------------------
++ Filter() Method create a new array ,val pass for tast 
+
+reduce ()Method
+-------------------------
++ Reduce method call's all elements in array, return single output val 
+
+every()method
+------------------------
++ every()method use for check all elements condtions pass or not .given output as a bool type
+
+Some() method
+----------------------
++ Some method check some val condtions pass or not ,Given Output as a bool type
+
+Array.from()Method 
+----------------------
++ From()method excute or print all elements presented an array
+
+
+
+Set Method () 
+--------------------
+ + JavaScripts collections of unique values  
+JavaScripts set() creates with help of : new set()  : new set() use for passing a array it converted into set 
+								  : add() : add()method use for add val in set 
+
+What diffrent bw length & size 
+------------------------------------------
+Length mainly use for array & String
+Size mainly use for map & Set
+
+Why does a Set use size instead of length?
+-------------------------------------------------
+Bez set does not allow index,it store uniqu values 
+
+set Method ()
+
+has () 
+it's return true if set contain has value 
+set value() and set key()
++ both are iterator object 
+
+
+
+Map
+-----------------
++ Map used to store key & value pair as other's programing lang 
+
+create new Map with help of Map.set() and add elements
+passing existing array  new set()
+
+Object.groupBy() vs Map.groupBy()
+The difference between Object.groupBy() and Map.groupBy() is:
+--------------------------------------------------------------------------------
+Object.groupBy() groups elements into a JavaScript object.
+Map.groupBy() groups elements into a Map object.
+
+
+
+
+
+
+
+
+
